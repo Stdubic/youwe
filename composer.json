@@ -1,0 +1,20 @@
+{
+    "name": "dubic/youwe_stevan",
+    "description": "This is youwe test.",
+    "authors": [
+        {
+            "name": "Stevan Aleksic",
+            "email": "stevandaleksic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
+
